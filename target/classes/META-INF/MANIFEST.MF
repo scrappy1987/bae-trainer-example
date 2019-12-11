@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
 Built-By: jagor
 Build-Jdk: 13
+Implementation-Title: trainerapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.qa.trainer-sample
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/trainerapp
 Created-By: Maven Integration for Eclipse
 
